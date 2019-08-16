@@ -1,0 +1,13 @@
+{
+  "defaultSeverity": "error",
+  "compilerOptions": {
+    "module": "commonjs",
+    "outDir": "./dist",
+    "sourceMap": true
+  },
+  "extends": ["tslint:latest"],
+  "rules": {
+    "prefer-object-spread": true
+  },
+  "rulesDirectory": []
+}
